@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1490725586 source:c:\users\ning\repo1\ctest\main.c
+	<stdio.h>
+	<stdlib.h>
+
