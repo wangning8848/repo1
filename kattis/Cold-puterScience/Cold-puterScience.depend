@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1491422653 source:c:\users\ning\repo1\kattis\cold-puterscience\main.c
+	<stdio.h>
+	<stdlib.h>
+
