@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1491507317 source:c:\users\ning\repo1\kattis\speedlimit\main.c
+	<stdio.h>
+	<stdlib.h>
+
